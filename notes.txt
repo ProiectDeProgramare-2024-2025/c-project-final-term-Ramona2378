@@ -1,0 +1,30 @@
+NOTA:
+Data: 12/03/2024
+Ora: 10:00
+Text: ma cheama Ramona
+
+NOTA:
+Data: 25/06/2024
+Ora: 15:30
+Text: ana are mere
+
+NOTA:
+Data: 30/09/2024
+Ora: 20:00
+Text: eu merg la magazin
+
+NOTA:
+Data: 24/10/2024
+Ora: 22:00
+Text: Azi este o zi speciala.
+
+NOTA:
+Data: 15/02/2024
+Ora: 22:00
+Text: Ana merge la scoala
+
+NOTA:
+Data: 22/04/2025
+Ora: 01:31
+Text: Afara s-a facut noapte.
+
